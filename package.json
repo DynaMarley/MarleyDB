@@ -1,0 +1,9 @@
+{
+    "name": "marley.db",
+    "version": "0.0.1",
+    "description": "Marley özel database modülü",
+    "main": "marleydb.js",
+    "repository": "",
+    "author": "DynaMarley",
+    "license": "MIT"
+}
